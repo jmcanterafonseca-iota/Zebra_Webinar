@@ -1,0 +1,19 @@
+{
+  "name": "zebra_webinar",
+  "version": "1.0.0",
+  "description": "Zebra Webinar Streams",
+  "main": "rfid-data-as-stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Zebra",
+    "Streams",
+    "RFID"
+  ],
+  "author": "IOTA Foundation",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/mam.js": "^1.0.0-beta.10"
+  }
+}
